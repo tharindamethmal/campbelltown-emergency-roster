@@ -4,7 +4,7 @@ import pandas as pd
 
 roster_file_path = 'Term 1, 2024 FINAL.xlsx'
 sheet_name = 'Term 1 2024 - Under Review '
-dr_name = 'Amila Meegahawattha'
+dr_name = 'dr name here as in the roster file'
 
 
 def load_excel(roster_file_path, sheet_name):
