@@ -1,4 +1,12 @@
+
+# Campbelltown-emergency-roster extractor
+
 This is a python script to  extract doctors shifts from the roster shared in Campbelltown hospital Emergency
+
+
+
+
+## Documentation
 
 Prerequisite : python3
 
@@ -13,3 +21,4 @@ modify python script with below variables
 Outputs
     A excel file will begenerated with below format in the same directory.
     <dr_name>_<sheet_name>_roster.xlsx
+
